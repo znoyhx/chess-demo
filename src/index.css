@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 这里可以加一些全局的水墨背景纹理，如果需要的话 */
+body {
+  margin: 0;
+  background-color: #f5f5f0; /* 米白色背景 */
+  font-family: "Kaiti", "STKaiti", "KaiTi", serif; /* 尝试使用楷体 */
+}
